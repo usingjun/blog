@@ -1,7 +1,7 @@
-baseURL = 'http://usingjun.github.io/'
-languageCode = 'utf-8'
-title = 'My New Hugo Site'
-theme = 'hugo-tranquilpeak-theme'
+baseURL = "http://usingjun.github.io/"
+languageCode = "utf-8"
+title = "My New Hugo Site"
+theme = "hugo-tranquilpeak-theme"
 
 [[menu.main]]
   weight = 1
